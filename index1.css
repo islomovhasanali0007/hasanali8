@@ -1,0 +1,19 @@
+.h1{
+    font-weight: 900;
+
+}
+.h2{
+    text-decoration: overline;
+
+}
+.h3{
+    text-decoration: line-through;
+    text-decoration: underline;
+}
+.h4{
+    text-decoration: line-through;
+    
+}
+.h5{
+    text-decoration: overline underline;
+}
